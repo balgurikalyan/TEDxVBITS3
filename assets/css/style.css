@@ -825,6 +825,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #hotels .hotel-img img {
   transition: 0.3s ease-in-out;
+  height: 250px;
+  width: fit-content;
+ 
 }
 
 #hotels h3 {
