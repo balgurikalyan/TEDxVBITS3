@@ -1,6 +1,6 @@
-Thanks for downloading this template!
 
-Template Name: TheEvent
-Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+Event Name: TEDxVBIT
+License: Shruthi Garlapati
+Co-License: Vikas Reddy
+Event Date: 24 April,2021
